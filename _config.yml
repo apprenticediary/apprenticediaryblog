@@ -6,7 +6,7 @@ logo: "assets/images/favicon/favicon-32x32.png"
 favicon: "assets/images/favicon/favicon-16x16.png"
 baseurl: /
 # google_analytics: ""
-# disqus: ""
+disqus: "apprenticediary-com"
 # mailchimp-list: ""
 include: ["_pages"]
 permalink: /:title/
