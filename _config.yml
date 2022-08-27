@@ -5,18 +5,18 @@ description: "Apprentice Diary's blog."
 logo: "assets/images/logo.png"
 favicon: "assets/images/logo.png"
 baseurl: /
-google_analytics: "UA-46278016-1"
-disqus: "demowebsite"
-mailchimp-list:
+google_analytics: ""
+disqus: ""
+mailchimp-list: ""
 include: ["_pages"]
 permalink: /:title/
 
 # Authors
 authors:
-  Apprentice:
-    name: Apprentice
-    display_name: Apprentice
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+  Elena:
+    name: Elena
+    display_name: Elena
+    gravatar:
     email: apprenticediary@gmail.com
     description: "Author of ApprenticeDiary blog."
 
