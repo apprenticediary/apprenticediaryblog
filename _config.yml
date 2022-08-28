@@ -5,7 +5,7 @@ description: "Apprentice Diary's blog."
 logo: "assets/images/favicon/favicon-32x32.png"
 favicon: "assets/images/favicon/favicon-16x16.png"
 baseurl: /
-# google_analytics: ""
+google_analytics: "UA-238982912-1"
 disqus: "apprenticediary-com"
 # mailchimp-list: ""
 include: ["_pages"]
